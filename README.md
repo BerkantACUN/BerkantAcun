@@ -7,16 +7,16 @@ Computer engineering student building MCP servers, deploying them to the cloud, 
 ### [guardmcp](https://github.com/BerkantACUN/guardmcp)
 
 [![npm](https://img.shields.io/npm/v/guardmcp)](https://www.npmjs.com/package/guardmcp)
-[![license](https://img.shields.io/npm/l/guardmcp)](https://github.com/BerkantACUN/guardmcp/blob/main/LICENSE)
+[![license](https://img.shields.io/npm/l/guardmcp)](https://github.com/BerkantACUN/guardmcp/blob/master/LICENSE)
 
 Security scanner for MCP servers and configs. Available as an npm CLI and a GitHub Action, with SARIF output for code scanning.
 
 ### [mcp-turkiye](https://github.com/BerkantACUN/mcp-turkiye)
 
 [![npm](https://img.shields.io/npm/v/mcp-turkiye)](https://www.npmjs.com/package/mcp-turkiye)
-[![license](https://img.shields.io/npm/l/mcp-turkiye)](https://github.com/BerkantACUN/mcp-turkiye/blob/main/LICENSE)
+[![license](https://img.shields.io/npm/l/mcp-turkiye)](https://github.com/BerkantACUN/mcp-turkiye/blob/master/LICENSE)
 
-MCP server for Turkish public data with 44 tools. Published on npm and as a Docker image, running on Azure.
+MCP server for Turkish public data with 44 tools. Published on npm and as a Docker image (`ghcr.io/berkantacun/mcp-turkiye`, Streamable HTTP at `/mcp`); can be hosted on Azure Container Apps.
 
 ### [efatura-kontrol](https://github.com/BerkantACUN/efatura-kontrol)
 
@@ -41,7 +41,7 @@ Checks building-permit IFC (BIM) models against Türkiye's digital project regul
 ## Contact
 
 - GitHub Issues: open an issue on this repository or on the relevant project.
-- LinkedIn: TODO
+- LinkedIn: [berkantacun-006467312](https://www.linkedin.com/in/berkantacun-006467312)
 
 ---
 
@@ -52,7 +52,7 @@ MCP sunucuları geliştiren, bunları buluta taşıyan ve MCP güvenliği üzeri
 **Projeler**
 
 - **guardmcp** — MCP sunucu ve yapılandırmaları için güvenlik tarayıcısı (npm, GitHub Action, SARIF).
-- **mcp-turkiye** — Türkiye kamu verisi için 44 araçlı MCP sunucusu (npm, Docker imajı, Azure'da çalışıyor).
+- **mcp-turkiye** — Türkiye kamu verisi için 44 araçlı MCP sunucusu (npm, Docker imajı `ghcr.io/berkantacun/mcp-turkiye` — Streamable HTTP, `/mcp`; Azure Container Apps'te barındırılabilir).
 - **efatura-kontrol** — GİB e-fatura doğrulayıcı (PyPI).
 - **ifc-ruhsat** — BIM modelleri için yapı ruhsatı yönetmelik denetimi (PyPI).
 
@@ -62,4 +62,4 @@ MCP sunucuları geliştiren, bunları buluta taşıyan ve MCP güvenliği üzeri
 - stdio MCP sunucularını buluta taşıma (Docker, Azure Container Apps)
 - MCP güvenlik denetimi (guardmcp raporu ile)
 
-**İletişim:** GitHub Issues veya LinkedIn (TODO).
+**İletişim:** GitHub Issues veya [LinkedIn](https://www.linkedin.com/in/berkantacun-006467312).
